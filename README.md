@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Paul McCormack, a part-time software developer, musician and chess enthusiast from the Netherlands.
+- 👀 I am interested in publishing some of my projects over here.
+- 🌱 Currently I am dedicated to improve my skills in chess.
+- 💞️ I’m looking to collaborate on projects that are built on top of the Sinatra DSL for Ruby.
+- 📫 You can reach me at black.dragon.chess <at> protonmail.com or on [my Discord server](https://discord.gg/tyyCsX3kVu).
