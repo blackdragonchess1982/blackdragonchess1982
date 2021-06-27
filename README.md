@@ -2,4 +2,4 @@
 - 👀 I am interested in publishing some of my projects over here.
 - 🌱 Currently I am dedicated to improve my skills in chess.
 - 💞️ I’m looking to collaborate on projects that are built on top of the Sinatra DSL for Ruby.
-- 📫 You can reach me at black.dragon.chess <at> protonmail.com or on [my Discord server](https://discord.gg/tyyCsX3kVu).
+- 📫 You can reach me at black.dragon.chess <at> protonmail.com or talk with me on [my Discord server](https://discord.gg/tyyCsX3kVu).
